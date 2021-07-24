@@ -1,7 +1,7 @@
 {
-   "abstract" : "It's new $module",
+   "abstract" : "load fixture data to storage for DBIx::Teng",
    "author" : [
-      "Masahiro IUCHI <masahiro.iuchi@gmail.com>"
+      "Masahiro Iuchi <masahiro.iuchi _at_ gmail _dot_ com>"
    ],
    "dynamic_config" : 0,
    "generated_by" : "Minilla/v3.1.12, CPAN::Meta::Converter version 2.150010",
@@ -42,17 +42,25 @@
       },
       "runtime" : {
          "requires" : {
+            "Kwalify" : "1.16",
+            "Params::Validate" : "0.89",
+            "Teng" : "0",
+            "YAML::Syck" : "1",
             "perl" : "5.008001"
          }
       },
       "test" : {
          "requires" : {
-            "Test::More" : "0.98"
+            "Test::More" : "0.98",
+            "Test::Requires" : "0"
          }
       }
    },
    "release_status" : "unstable",
    "version" : "0.01",
+   "x_contributors" : [
+      "Masahiro IUCHI <masahiro.iuchi@gmail.com>"
+   ],
    "x_serialization_backend" : "JSON::PP version 4.06",
    "x_static_install" : 1
 }
