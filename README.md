@@ -1,6 +1,6 @@
 # NAME
 
-Test::Fixture::Teng - load fixture data to storage for DBIx::Teng
+Test::Fixture::Teng - load fixture data to storage for Teng
 
 # SYNOPSIS
 
@@ -29,7 +29,7 @@ Test::Fixture::Teng - load fixture data to storage for DBIx::Teng
 
 # DESCRIPTION
 
-Test::Fixture::Teng is fixture data loader for DBIx::Teng.
+Test::Fixture::Teng is fixture data loader for Teng.
 
 # METHODS
 

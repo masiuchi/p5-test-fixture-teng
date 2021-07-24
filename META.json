@@ -1,5 +1,5 @@
 {
-   "abstract" : "load fixture data to storage for DBIx::Teng",
+   "abstract" : "load fixture data to storage for Teng",
    "author" : [
       "Masahiro Iuchi <masahiro.iuchi _at_ gmail _dot_ com>"
    ],
@@ -57,6 +57,17 @@
       }
    },
    "release_status" : "unstable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/masiuchi/p5-test-fixture-teng/issues"
+      },
+      "homepage" : "https://github.com/masiuchi/p5-test-fixture-teng",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/masiuchi/p5-test-fixture-teng.git",
+         "web" : "https://github.com/masiuchi/p5-test-fixture-teng"
+      }
+   },
    "version" : "0.01",
    "x_contributors" : [
       "Masahiro IUCHI <masahiro.iuchi@gmail.com>"
