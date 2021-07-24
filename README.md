@@ -52,7 +52,7 @@ Masahiro Iuchi &lt;masahiro.iuchi \_at\_ gmail \_dot\_ com>
 
 # THANKS
 
-[Test::Fixture::DBIxSkinny](https://metacpan.org/pod/Test%3A%3AFixture%3A%3ADBIxSkinny)
+Mostly copied from [Test::Fixture::DBIxSkinny](https://metacpan.org/pod/Test%3A%3AFixture%3A%3ADBIxSkinny)
 
 # REPOSITORY
 

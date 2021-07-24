@@ -132,7 +132,7 @@ L<Teng>, L<Kwalify>
 
 =head1 THANKS
 
-L<Test::Fixture::DBIxSkinny>
+Mostly copied from L<Test::Fixture::DBIxSkinny>
 
 =head1 REPOSITORY
 
