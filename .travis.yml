@@ -18,3 +18,5 @@ matrix:
     - perl: "5.30"
     - perl: "5.32"
 
+before_script:
+  - cpanm DBD::SQLite
